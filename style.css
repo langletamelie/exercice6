@@ -1,72 +1,54 @@
 #rectangle {
     width:80%;
-    height:10%;
+    height:25px;
     background:#2ECC71;
-    position:absolute;
-    top:0;
-    left:0;
+    float: left;
 }
 #rectangle2 {
     width:20%;
-    height:10%;
+    height:25px;
     background:#2980B9;
-    position:absolute;
-    top:0;
-    left:80;
+    float:right;
 }
 #rectangle3 {
     width:33%;
-    height:40%;
+    height:100px;
     background:#E74C3C;
-    position:absolute;
-    top:10;
-    left:0;
+    float: left;
 }
 #rectangle4 {
-    width:20%;
-    height:33%;
+    width:33%;
+    height:50px;
     background:#E67E22;
-    position:absolute;
-    top:20;
-    left:33;
+    float:left;
 }
 #rectangle5 {
-    width:20%;
-    height:34%;
+    width:34%;
+    height:50px;
     background:#95A5A6;
-    position:absolute;
-    top:30;
-    left:0;
+    float: left;
 }
 #rectangle6 {
-    width:20%;
-    height:22%;
+    width:22%;
+    height:50px;
     background:#F39C12;
-    position:absolute;
-    top:40;
-    left:0;
+    float: right;
 }
 #rectangle7 {
-    width:20%;
-    height:22%;
+    width:22%;
+    height:50px;
     background:#16A085;
-    position:absolute;
-    top:0;
-    left:0;
+    float: left;
 }
 #rectangle8 {
-    width:20%;
-    height:23%;
+    width:23%;
+    height:50px;
     background:#D35400;
-    position:absolute;
-    top:0;
-    left:0;
+    float: left;
 }
 #rectangle9 {
     width:100%;
-    height:50%;
+    height:200px;
     background:#2C3E50;
-    position:absolute;
-    top:50;
-    left:0;
+    float: left;
 }
